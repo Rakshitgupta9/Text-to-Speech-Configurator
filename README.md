@@ -41,6 +41,16 @@ The main.py file contains the Python code for the Text to Speech Configurator ap
 - Tkinter library (included with standard Python installations)
 - pyttsx3 library (installable via pip)
 
+## Images
+### GUI
+![image](https://github.com/Rakshitgupta9/Text-to-Speech-Configurator/assets/95240061/18e85fcd-cb33-41c9-9413-478331c9b577)
+
+### Voice Option
+![image](https://github.com/Rakshitgupta9/Text-to-Speech-Configurator/assets/95240061/5553d319-c944-4311-813a-da3f1c00637f)
+
+### Sample
+![image](https://github.com/Rakshitgupta9/Text-to-Speech-Configurator/assets/95240061/3b6a05c4-1f62-43ca-bffa-87efed8857b3)
+
 
 ## License
 
